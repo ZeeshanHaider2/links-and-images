@@ -1,0 +1,35 @@
+body {
+  background-color: antiquewhite;
+}
+
+div {
+  background-color: rgb(185, 199, 209);
+  padding: 20px 30px 40px 30px;
+}
+
+.container h1 {
+  color: #1578db;
+}
+
+.container h2 {
+  color: rgb(124, 156, 8);
+}
+
+.container h3 {
+  color: hsl(0, 100%, 27%);
+}
+
+.container h4 {
+  color: hwb(243 10% 9%);
+}
+
+p {
+  color: rgb(88, 26, 7);
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 14px;
+}
